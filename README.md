@@ -29,12 +29,3 @@ To explore and visualize sales data to uncover trends, insights, and patterns us
 
 ---
 
-### 📁 Files in Repository:
-- `superstore_visualizations.ipynb`
-- `SampleSuperstore.csv`
-- `README.md`
-- Screenshot folder (optional, for visual report PDF or PNGs)
-
----
-
-Let me know if you want the full notebook file with all charts and markdown! I can generate it for you too.
